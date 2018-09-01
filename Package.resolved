@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AWSSDKSwiftCore",
+        "repositoryURL": "https://github.com/noppoMan/aws-sdk-swift-core.git",
+        "state": {
+          "branch": null,
+          "revision": "e2dbc23ec5938e658ccee4d9056a0d5a93a8c16d",
+          "version": "2.0.0-rc.1"
+        }
+      },
+      {
+        "package": "HypertextApplicationLanguage",
+        "repositoryURL": "https://github.com/Yasumoto/HypertextApplicationLanguage.git",
+        "state": {
+          "branch": null,
+          "revision": "2302002502fe573494577cc6e8df686e385519f8",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "f42c836ba58e3e38688acdb75df986dff02717f1",
+          "version": "1.9.4"
+        }
+      },
+      {
+        "package": "swift-nio-ssl",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl.git",
+        "state": {
+          "branch": null,
+          "revision": "6617eb0d3afcb12170594968df01ca63afb58ac5",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "swift-nio-ssl-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-ssl-support.git",
+        "state": {
+          "branch": null,
+          "revision": "c02eec4e0e6d351cd092938cf44195a8e669f555",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
